@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1743547942 source:c:\users\isaac\documents\programaciondecomputadora\projectosconsola\polinomios\main.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	"GestionOperaciones.hpp"
+
+1743547858 c:\users\isaac\documents\programaciondecomputadora\projectosconsola\polinomios\gestionoperaciones.hpp
+
+1743547546 source:c:\users\isaac\documents\programaciondecomputadora\projectosconsola\polinomios\gestionoperaciones.cpp
+	<iostream>
+	"OperacionesPolinomios.hpp"
+
+1743547620 source:c:\users\isaac\documents\programaciondecomputadora\projectosconsola\polinomios\operacionespolinomios.cpp
+	<iostream>
+
+1743546309 c:\users\isaac\documents\programaciondecomputadora\projectosconsola\polinomios\operacionespolinomios.hpp
+
+1743568790 source:c:\users\isaacuwu\documents\programaciondecomputadoras\polinomios\polinomios\operacionespolinomios.cpp
+	<iostream>
+
+1743570663 source:c:\users\isaacuwu\documents\programaciondecomputadoras\polinomios\polinomios\gestionoperaciones.cpp
+	<iostream>
+	"OperacionesPolinomios.hpp"
+	"DisenioPolinomio.hpp"
+
+1743567952 c:\users\isaacuwu\documents\programaciondecomputadoras\polinomios\polinomios\operacionespolinomios.hpp
+
+1743570076 source:c:\users\isaacuwu\documents\programaciondecomputadoras\polinomios\polinomios\main.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	"GestionOperaciones.hpp"
+
+1743569757 c:\users\isaacuwu\documents\programaciondecomputadoras\polinomios\polinomios\gestionoperaciones.hpp
+
+1743571749 source:c:\users\isaacuwu\documents\programaciondecomputadoras\polinomios\polinomios\diseniopolinomio.cpp
+	<iostream>
+
+1743569757 c:\users\isaacuwu\documents\programaciondecomputadoras\polinomios\polinomios\diseniopolinomio.hpp
+
